@@ -15,7 +15,7 @@ const work = [
   {
     name: 'Promptfoo',
     position: 'Co-founder & CTO',
-    url: 'https://promptfoo.dev',
+    url: '#',
     startDate: '2024-07-01',
     summary: 'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
     highlights: [
@@ -26,7 +26,7 @@ const work = [
   {
     name: 'Smile Identity',
     position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
+    url: '#',
     startDate: '2022-01-01',
     endDate: '2024-07-01',
     summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
@@ -45,7 +45,7 @@ const work = [
     ],
   },
   {
-    name: 'Skeptical Investments',
+    name: '#',
     position: 'Co-founder',
     url: 'http://skepticalinvestments.biz',
     startDate: '2017-04-01',
@@ -59,7 +59,7 @@ const work = [
   {
     name: 'Arthena',
     position: 'Co-founder & C.T.O.',
-    url: 'https://arthena.com',
+    url: '#',
     startDate: '2014-01-01',
     endDate: '2022-01-01',
     summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,
@@ -78,7 +78,7 @@ const work = [
   {
     name: 'Enveritas',
     position: 'ML Engineering Contractor',
-    url: 'http://enveritas.org',
+    url: '#',
     startDate: '2016-09-01',
     endDate: '2018-01-01',
     summary: `Enveritas is a non-profit that works with coffee farmers to improve their livelihoods.
@@ -93,7 +93,7 @@ const work = [
   {
     name: 'Zenysis',
     position: 'Software Engineering Contractor',
-    url: 'https://zenysis.com',
+    url: '#',
     startDate: '2016-02-01',
     endDate: '2016-03-01',
     summary: `Zenysis develops data analysis and visualization tools for government agencies and international organizations.
@@ -108,7 +108,7 @@ const work = [
   {
     name: 'Matroid',
     position: 'Co-founder',
-    url: 'https://matroid.com',
+    url: '#',
     startDate: '2015-07-01',
     endDate: '2016-01-01',
     summary: `Matroid is a computer vision platform for creating and deploying detectors. Detectors help customers identify objects,
@@ -122,7 +122,7 @@ const work = [
   {
     name: 'Planet',
     position: 'Missions Intern',
-    url: 'https://planet.com',
+    url: '#',
     startDate: '2014-06-01',
     endDate: '2015-01-01',
     highlights: [
@@ -136,7 +136,7 @@ const work = [
     position: 'Avionics Intern',
     startDate: '2014-01-01',
     endDate: '2014-05-01',
-    url: 'http://planetaryresources.com',
+    url: '#',
     highlights: [
       'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
       'Developed processes for in lab testing and characterization of various subsystems.',
@@ -146,7 +146,7 @@ const work = [
   {
     name: 'Facebook',
     position: 'Software Engineer Intern',
-    url: 'https://facebook.com',
+    url: '#',
     startDate: '2013-06-01',
     endDate: '2013-09-01',
     highlights: [
@@ -158,7 +158,7 @@ const work = [
   {
     name: 'SEDS-USA',
     position: 'At Large Board Member',
-    url: 'http://seds.org',
+    url: '#',
     startDate: '2013-10-01',
     endDate: '2014-10-01',
     highlights: [
@@ -169,7 +169,7 @@ const work = [
   {
     name: 'UB Nanosatellite Program',
     position: 'Co-founder, Program Manager',
-    url: 'https://ubnl.space/',
+    url: '#',
     startDate: '2010-10-01',
     endDate: '2012-06-01',
     highlights: [
