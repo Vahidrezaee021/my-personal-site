@@ -14,7 +14,7 @@ const SideBar = () => (
       <header>
         <h2>Vahid Rezaei</h2>
         <p>
-          <a href="mailto:michael@mldangelo.com">vahidrezai@ymail.com</a>
+          <a href="mailto:vahidrezai@ymail.com">vahidrezai@ymail.com</a>
         </p>
       </header>
     </section>
@@ -48,7 +48,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
+        &copy; Vahid Rezaei <Link to="/">VR.com</Link>.
       </p>
     </section>
   </section>
