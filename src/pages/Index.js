@@ -18,7 +18,7 @@ const Index = () => (
           </h2>
           <p>
             A beautiful, responsive, statically-generated, react application
-            written with modern Javascript.
+            written with modern Javascript created by Vahid Rezaei
           </p>
         </div>
       </header>
